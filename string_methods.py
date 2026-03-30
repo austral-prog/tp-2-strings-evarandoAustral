@@ -1,4 +1,5 @@
 def string_methods():
+    
     """Demuestra el uso de métodos de string: strip, lstrip, rstrip, upper, lower,
     title, find, replace, count, operador in, slicing con paso, reverso,
     f-strings y strings multilínea.
@@ -8,6 +9,8 @@ def string_methods():
     multilinea = """Linea 1
 Linea 2
 Linea 3"""
+
+    # ________________________________________RESOLUCION EJERCICIO 9_______________________________________
 
     print(f"Strip: {nombre.strip()}")
     print(f"Lstrip: {nombre.lstrip()}")
